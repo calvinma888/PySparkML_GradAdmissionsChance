@@ -1,4 +1,4 @@
-# PySparkMLGradAdmissions
+# PySparkML_GradAdmissions
  
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -47,7 +47,7 @@ This is a list of packages that need to be installed before the notebook can be 
 
 ### Installation
 
-Clone the repo: https://github.com/calvinma888/PySparkMLGradAdmissions.git
+Clone the repo: https://github.com/calvinma888/PySparkML_GradAdmissions.git
 
 ### Datasets
 The dataset can be found in the cloned repository.
